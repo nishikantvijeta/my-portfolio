@@ -63,7 +63,7 @@ const Contact = () => {
           <h3 className="text-3xl font-bold text-blue-400 mb-4">Follow Me</h3>
           <div className="flex justify-center space-x-6 text-3xl">
             <a
-              href="https://www.linkedin.com/in/nishikantvijeta"
+              href="https://www.linkedin.com/in/nishikant-kumar-5101a3271"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-500"
@@ -81,7 +81,7 @@ const Contact = () => {
               <i className="fab fa-github"></i>
             </a>
             <a
-              href="https://www.youtube.com/@nishikantvijeta"
+              href="https://www.youtube.com/@nishikantvijeta1258"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-red-500"
