@@ -8,7 +8,7 @@ const Achievements = () => {
       <div className="grid grid-cols-1 md:mx-4 mt-10 sm:grid-cols-2 lg:grid-cols-3 gap-6 text-gray-300">
         {/* LeetCode Achievement */}
         <div className="bg-gray-800 p-5 rounded-xl shadow-lg">
-          <h2 className="text-xl font-bold text-yellow-400 mb-1">LeetCode(Knight Badge🛡️)</h3>
+          <h2 className="text-xl font-bold text-yellow-400 mb-1">LeetCode(Knight Badge🛡️)</h2>
           <p className="text-sm mb-2">max rating:</p>
           <p className="text-2xl font-bold text-white mb-2">1845</p>
           <p className="text-sm mb-2">560+ Problems Solved</p>
