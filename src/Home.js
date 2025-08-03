@@ -67,7 +67,7 @@ const Home = () => (
       </a>
 
       <a
-        href="https://drive.google.com/file/d/1YwzlPdxj2CRW89KyA0r75jQ6jcW5rviX/view?usp=sharing"
+        href="https://drive.google.com/file/d/1npj7LudRw3hVhSqtwHHw99BEtbDrbeEo/view?usp=sharing"
         download
         className="bg-gray-700 hover:bg-gray-800 text-white text-lg sm:text-2xl px-4 py-2 rounded-xl transition"
       >
