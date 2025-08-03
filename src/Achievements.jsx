@@ -8,10 +8,10 @@ const Achievements = () => {
       <div className="grid grid-cols-1 md:mx-6 mt-10 sm:grid-cols-2 lg:grid-cols-3 gap-6 text-gray-300">
         {/* LeetCode Achievement */}
         <div className="bg-gray-800 p-5 rounded-xl shadow-lg">
-          <h3 className="text-xl font-bold text-yellow-400 mb-1">LeetCode </h3>
+          <h3 className="text-xl font-bold text-yellow-400 mb-1">LeetCode(Knight Badge🛡️)</h3>
           <p className="text-sm mb-2">max rating:</p>
-          <p className="text-2xl font-bold text-white mb-2">1617</p>
-          <p className="text-sm mb-2">450+ Problems Solved</p>
+          <p className="text-2xl font-bold text-white mb-2">1845</p>
+          <p className="text-sm mb-2">560+ Problems Solved</p>
           <a
             href="https://leetcode.com/u/nishikantvijeta/" 
             target="_blank"
@@ -27,7 +27,7 @@ const Achievements = () => {
         <div className="bg-gray-800 p-5 rounded-xl shadow-lg">
           <h3 className="text-xl font-bold text-green-400 mb-1">GeeksforGeeks Champion</h3>
           <p className="text-sm mb-2">Solved:</p>
-          <p className="text-2xl font-bold text-white mb-2">320+ Problems</p>
+          <p className="text-2xl font-bold text-white mb-2">350+ Problems</p>
           <p className="text-sm mb-2">Status: Active User</p>
           <a
             href="https://www.geeksforgeeks.org/user/nishikantvvl2y/" // Replace with your actual GFG profile
@@ -62,15 +62,15 @@ const Achievements = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 text-sm text-gray-300">
           {/* LeetCode Stats */}
           <div className="bg-gray-800 p-5 rounded-xl shadow-md">
-            <h4 className="text-lg font-bold text-yellow-400 mb-2">LeetCode</h4>
+            <h4 className="text-lg font-bold text-yellow-400 mb-2">LeetCode(Knight Badge🛡️)</h4>
             <ul className="list-disc list-inside text-gray-400 space-y-1">
               <li>
                 <span className="text-white font-medium">Problems Solved:</span>{' '}
-                <span className="text-xl font-bold text-white">450+</span>
+                <span className="text-xl font-bold text-white">560+</span>
               </li>
               <li>
                 <span className="text-white font-medium">Max Rating:</span>{' '}
-                <span className="text-xl font-bold text-white">1617</span>
+                <span className="text-xl font-bold text-white">1845</span>
               </li>
               <li>
                 <span className="text-white font-medium">Activity:</span>{' '}
@@ -85,7 +85,7 @@ const Achievements = () => {
             <ul className="list-disc list-inside text-gray-400 space-y-1">
               <li>
                 <span className="text-white font-medium">Problems Solved:</span>{' '}
-                <span className="text-xl font-bold text-white">320+</span>
+                <span className="text-xl font-bold text-white">350+</span>
               </li>
               <li>
                 <span className="text-white font-medium">Status:</span>{' '}
